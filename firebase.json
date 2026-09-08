@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "gen-lang-client-0573228910",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "cleanUrls": true
+  }
+}
